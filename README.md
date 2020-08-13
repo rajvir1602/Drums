@@ -1,1 +1,1 @@
-This is a simple project of creating a drum kit using javascript to make our webpage responsive using various javascript tools and functions . It only uses HTML , CSS and advanced javascript to create this drum kit.
+This is a simple project of creating a drum kit using javascript to make our webpage responsive using various javascript tools and functions along with the knowledge of the document object model. It only uses HTML , CSS and advanced javascript to create this drum kit.
